@@ -1,7 +1,8 @@
 # Dashboard de Vendas Mensais - Excel Avançado
 
 ![Dashboard Preview](dashboard-preview.png)  
-*(Adicione aqui uma captura de tela do seu dashboard completo – renomeie o arquivo para "dashboard-preview.png" e faça upload no repositório)*
+*<img width="1616" height="780" alt="vips02" src="https://github.com/user-attachments/assets/730422a6-c5ad-4b2f-9eba-301508ed22cd" />
+)*
 
 Um dashboard dinâmico de acompanhamento de vendas mensais em 2026, construído 100% no Microsoft Excel. Ideal para gestão de equipe comercial, análise de desempenho por representante e visualização de tendências.
 
